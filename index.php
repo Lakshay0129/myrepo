@@ -6,7 +6,7 @@
 </h1>
 
 <?php
-echo "i am lakshay from delhi........!!";
+echo "i am lakshay prajapati from delhi........!!";
 ?>
 
 </body>
